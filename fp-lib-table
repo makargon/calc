@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Calc")(type "KiCad")(uri "$(KIPRJMOD)/Calc.pretty")(options "")(descr ""))
+)
